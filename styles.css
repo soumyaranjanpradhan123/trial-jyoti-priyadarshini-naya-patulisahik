@@ -1,0 +1,14 @@
+body{
+    margin: auto;
+    
+}
+h1{
+    color: blue;
+}
+button{
+    border-radius: 30px;
+    background-color: aqua;
+}
+img{
+    max-width: 100%;
+}
